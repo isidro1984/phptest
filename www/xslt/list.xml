@@ -1,0 +1,101 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type='text/xsl' 'list.xsl'?>
+<root xmlns:jobsinmalta="http://jobsinmalta.com/jobsinmalta-schema" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" jobsinmalta:noNamespaceSchemaLocation="http://jobsinmalta.com/jobsinmalta.xsd" encoding="utf-8">
+    <channel>
+        <title>JobsInMalta.com </title>
+        <link>http://www.jobsinmalta.com</link>
+        <description>Vacancies as published on JobsInMalta.com</description>
+        <jobsinmalta:searchmatch>221</jobsinmalta:searchmatch>
+        <jobsinmalta:total>466</jobsinmalta:total>
+        <atom:link href="http://jobsinmalta.com/jobs.rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title>Military Historical Re-enactors</title>
+            <link>http://jobsinmalta.com/military-historical-re-enactors/job/8469/hospitality-leisure</link>
+            <guid>http://jobsinmalta.com/military-historical-re-enactors/job/8469/hospitality-leisure</guid>
+            <category>Hospitality &amp; Leisure</category>
+            <description>Vacant posts exist for the employment of Military Historical Re-enactors to join our work force at Fort Rinella, Kalkara and the Saluting Battery,...</description>
+            <pubDate>Tue, 18 Oct 2016 20:15:51 +0200</pubDate>
+            <enclosure length="64007" type="image/png" url="http://employers.jobsinmalta.com/img/uploads/clients/thumbnails/836.png"/>
+            <jobsinmalta:specializations>
+                <jobsinmalta:specialization id="938">Tour Guides</jobsinmalta:specialization>
+                <jobsinmalta:specialization id="939">Entertainment</jobsinmalta:specialization>
+            </jobsinmalta:specializations>
+            <jobsinmalta:jobtype>Full Time</jobsinmalta:jobtype>
+            <jobsinmalta:joblevel>Entry</jobsinmalta:joblevel>
+            <jobsinmalta:companytype>Government</jobsinmalta:companytype>
+            <jobsinmalta:closingdate>
+                Thu, 17 Nov 2016 20:15:51 +0100                </jobsinmalta:closingdate>
+        </item>
+        <item>
+            <title>Customer Service Representative</title>
+            <link>http://jobsinmalta.com/customer-service-representative/job/8393/customer-service</link>
+            <guid>http://jobsinmalta.com/customer-service-representative/job/8393/customer-service</guid>
+            <category>Customer Service</category>
+            <description>Job Vacancy:&#xA0;Customer Service Representative (French / Italian Speaking)SysPay is looking for a customer-oriented service representative to act as...</description>
+            <pubDate>Tue, 18 Oct 2016 17:10:15 +0200</pubDate>
+            <enclosure length="51441" type="image/png" url="http://employers.jobsinmalta.com/img/uploads/clients/thumbnails/796.png"/>
+            <jobsinmalta:specializations>
+                <jobsinmalta:specialization id="881">Customer support</jobsinmalta:specialization>
+                <jobsinmalta:specialization id="996">Call Centre</jobsinmalta:specialization>
+                <jobsinmalta:specialization id="998">Technical support</jobsinmalta:specialization>
+            </jobsinmalta:specializations>
+            <jobsinmalta:jobtype>Full Time</jobsinmalta:jobtype>
+            <jobsinmalta:joblevel>Experienced</jobsinmalta:joblevel>
+            <jobsinmalta:companytype>Employer</jobsinmalta:companytype>
+            <jobsinmalta:closingdate>
+                Thu, 17 Nov 2016 17:10:15 +0100                </jobsinmalta:closingdate>
+        </item>
+        <item>
+            <title>Waitress / Waitresses</title>
+            <link>http://jobsinmalta.com/waitress-waitresses/job/8413/hospitality-leisure</link>
+            <guid>http://jobsinmalta.com/waitress-waitresses/job/8413/hospitality-leisure</guid>
+            <category>Hospitality &amp; Leisure</category>
+            <description>We are currently looking for Waitress / Waitresses to work on Full-Time basis.&#xA0;The successful candidates will be working&#xA0;in one of our stores...</description>
+            <pubDate>Tue, 18 Oct 2016 15:37:34 +0200</pubDate>
+            <enclosure length="34157" type="image/png" url="http://employers.jobsinmalta.com/img/uploads/clients/thumbnails/782.png"/>
+            <jobsinmalta:specializations>
+                <jobsinmalta:specialization id="933">Food &amp; Beverage serving</jobsinmalta:specialization>
+            </jobsinmalta:specializations>
+            <jobsinmalta:jobtype>Full Time</jobsinmalta:jobtype>
+            <jobsinmalta:joblevel>Experienced</jobsinmalta:joblevel>
+            <jobsinmalta:companytype>Employer</jobsinmalta:companytype>
+            <jobsinmalta:closingdate>
+                Thu, 17 Nov 2016 15:37:34 +0100                </jobsinmalta:closingdate>
+        </item>
+        <item>
+            <title>Office Manager</title>
+            <link>http://jobsinmalta.com/office-manager/job/8240/management</link>
+            <guid>http://jobsinmalta.com/office-manager/job/8240/management</guid>
+            <category>Management</category>
+            <description>Job Vacancy: Office ManagerSummary of role:Your scope of responsibilities will revolve around ensuring that the Luma Trading Ltd. office and...</description>
+            <pubDate>Tue, 18 Oct 2016 13:04:43 +0200</pubDate>
+            <enclosure length="18897" type="image/png" url="http://employers.jobsinmalta.com/img/uploads/clients/thumbnails/738.png"/>
+            <jobsinmalta:specializations>
+                <jobsinmalta:specialization id="942">General Management</jobsinmalta:specialization>
+                <jobsinmalta:specialization id="943">Operations</jobsinmalta:specialization>
+            </jobsinmalta:specializations>
+            <jobsinmalta:jobtype>Full Time</jobsinmalta:jobtype>
+            <jobsinmalta:joblevel>Management</jobsinmalta:joblevel>
+            <jobsinmalta:companytype>Employer</jobsinmalta:companytype>
+            <jobsinmalta:closingdate>
+                Thu, 17 Nov 2016 13:04:43 +0100                </jobsinmalta:closingdate>
+        </item>
+        <item>
+            <title>Accountant </title>
+            <link>http://jobsinmalta.com/accountant/job/8457/accounting</link>
+            <guid>http://jobsinmalta.com/accountant/job/8457/accounting</guid>
+            <category>Accounting</category>
+            <description>A vacancy has arisen in our company for an Accountant.Responsibilities:Preparing monthly management accounts;Carrying out VAT compliance;Liaising...</description>
+            <pubDate>Tue, 18 Oct 2016 13:03:52 +0200</pubDate>
+            <enclosure length="54611" type="image/png" url="http://employers.jobsinmalta.com/img/uploads/clients/thumbnails/831.png"/>
+            <jobsinmalta:specializations>
+                <jobsinmalta:specialization id="801">Accounting</jobsinmalta:specialization>
+            </jobsinmalta:specializations>
+            <jobsinmalta:jobtype>Full Time</jobsinmalta:jobtype>
+            <jobsinmalta:joblevel>Experienced</jobsinmalta:joblevel>
+            <jobsinmalta:companytype>Employer</jobsinmalta:companytype>
+            <jobsinmalta:closingdate>
+                Thu, 17 Nov 2016 13:03:52 +0100                </jobsinmalta:closingdate>
+        </item>
+    </channel>
+</root>
