@@ -1,8 +1,8 @@
 <?php
 include "../core/basics.php";
 
-if (file_exists(PATH_SERVICES . Router::$service . ".php")) {
-    CORE::$SERVICE = new Service(Router::$service);
+if (file_exists(PATH_SERVICES . Router::$params[1] . ".php")) {
+    CORE::$SERVICE = new Service(Router::$params[1]);
 } else {
     CORE::$SERVICE = new SERVICE("404");
 }

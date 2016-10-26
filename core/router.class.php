@@ -1,4 +1,4 @@
-<?php
+﻿<?php
 
 class Router
 {
@@ -37,7 +37,8 @@ else {
         Router::$service = isset(Router::$uri[1]) ? Router::$uri[1] : 'home';
         Router::$params = array_slice(explode("/", $_SERVER["REQUEST_URI"]), 3);
     } else {
-        Router::$service = isset(Router::$uri[0]) ? Router::$uri[0] : 'home';
+        
+		Router::$service = isset(Router::$uri[0]) ? Router::$uri[0] : 'home';
         Router::$params = array_slice(explode("/", $_SERVER["REQUEST_URI"]), 2);
     }
 }
