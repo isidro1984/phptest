@@ -1,0 +1,101 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type='text/xsl'  href='../xslt/list.xsl'?>
+<root xmlns:jobsinmalta="http://jobsinmalta.com/jobsinmalta-schema" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" jobsinmalta:noNamespaceSchemaLocation="http://jobsinmalta.com/jobsinmalta.xsd" encoding="utf-8">
+<channel>
+        <title>JobsInMalta.com </title>
+        <link>http://www.jobsinmalta.com</link>
+        <description>Vacancies as published on JobsInMalta.com</description>
+        <jobsinmalta:searchmatch>223</jobsinmalta:searchmatch>
+        <jobsinmalta:total>482</jobsinmalta:total>
+        <atom:link href="http://jobsinmalta.com/jobs.rss" rel="self" type="application/rss+xml"/>
+                    <item>
+                <title>Database Administrator </title>
+                <link>http://jobsinmalta.com/database-administrator/job/8545/information-technology</link>
+                <guid>http://jobsinmalta.com/database-administrator/job/8545/information-technology</guid>
+                <category>Information Technology</category>
+                <description>PTL Ltd is seeking to recruit a Database Administrator to join its Database &amp; Middleware Services Team to support its diverse client base.THE...</description>
+                <pubDate>Mon, 24 Oct 2016 03:04:36 +0200</pubDate>
+                                <enclosure length="32725" type="image/png" url="http://employers.jobsinmalta.com/img/uploads/clients/thumbnails/125.png"/>
+                                <jobsinmalta:specializations>
+                                            <jobsinmalta:specialization id="901">Data Warehousing</jobsinmalta:specialization>
+                                            <jobsinmalta:specialization id="902">Database management</jobsinmalta:specialization>
+                                    </jobsinmalta:specializations>
+                <jobsinmalta:jobtype>Full Time</jobsinmalta:jobtype>
+                <jobsinmalta:joblevel>Experienced</jobsinmalta:joblevel>
+                                <jobsinmalta:companytype>Employer</jobsinmalta:companytype>
+                                                <jobsinmalta:closingdate>
+                    Wed, 23 Nov 2016 03:04:36 +0100                </jobsinmalta:closingdate>
+                            </item>
+                    <item>
+                <title>Customer Service Supervisor</title>
+                <link>http://jobsinmalta.com/customer-service-supervisor/job/8538/customer-service</link>
+                <guid>http://jobsinmalta.com/customer-service-supervisor/job/8538/customer-service</guid>
+                <category>Customer Service</category>
+                <description>SMART SUPERMARKET&#xA0;is one of Malta&#x2019;s leading and supermarkets with an already established client base. As part of our continued growth and...</description>
+                <pubDate>Mon, 24 Oct 2016 03:00:18 +0200</pubDate>
+                                <enclosure length="64320" type="image/png" url="http://employers.jobsinmalta.com/img/uploads/clients/thumbnails/850.png"/>
+                                <jobsinmalta:specializations>
+                                            <jobsinmalta:specialization id="881">Customer support</jobsinmalta:specialization>
+                                    </jobsinmalta:specializations>
+                <jobsinmalta:jobtype>Full Time</jobsinmalta:jobtype>
+                <jobsinmalta:joblevel>Management</jobsinmalta:joblevel>
+                                <jobsinmalta:companytype>Employer</jobsinmalta:companytype>
+                                                <jobsinmalta:closingdate>
+                    Wed, 23 Nov 2016 03:00:18 +0100                </jobsinmalta:closingdate>
+                            </item>
+                    <item>
+                <title>Telemarketer</title>
+                <link>http://jobsinmalta.com/telemarketer/job/8513/sales-business-development</link>
+                <guid>http://jobsinmalta.com/telemarketer/job/8513/sales-business-development</guid>
+                <category>Sales &amp; Business Development</category>
+                <description>We are currently looking to employ persons to work as Telemarketers&#xA0;within our mobility department.Ideal Candidates should have;&#xA0;Experience in...</description>
+                <pubDate>Mon, 24 Oct 2016 02:55:44 +0200</pubDate>
+                                <enclosure length="18532" type="image/png" url="http://employers.jobsinmalta.com/img/uploads/clients/thumbnails/687.png"/>
+                                <jobsinmalta:specializations>
+                                            <jobsinmalta:specialization id="967">Sales</jobsinmalta:specialization>
+                                            <jobsinmalta:specialization id="973">Telesales</jobsinmalta:specialization>
+                                    </jobsinmalta:specializations>
+                <jobsinmalta:jobtype>Full Time</jobsinmalta:jobtype>
+                <jobsinmalta:joblevel>Entry</jobsinmalta:joblevel>
+                                <jobsinmalta:companytype>Employer</jobsinmalta:companytype>
+                                                <jobsinmalta:closingdate>
+                    Wed, 23 Nov 2016 02:55:44 +0100                </jobsinmalta:closingdate>
+                            </item>
+                    <item>
+                <title>DIRECTOR OF STUDIES</title>
+                <link>http://jobsinmalta.com/director-of-studies/job/8490/education-training</link>
+                <guid>http://jobsinmalta.com/director-of-studies/job/8490/education-training</guid>
+                <category>Education &amp; Training</category>
+                <description>CAMAS intends to appoint a Director of Studies (DoS) in order to develop our St. Julian&amp;#39;s&#xA0;training centre. The Director of Studies will...</description>
+                <pubDate>Mon, 24 Oct 2016 02:14:34 +0200</pubDate>
+                                <enclosure length="94426" type="image/png" url="http://employers.jobsinmalta.com/img/uploads/clients/thumbnails/540.png"/>
+                                <jobsinmalta:specializations>
+                                            <jobsinmalta:specialization id="851">Director of Studies</jobsinmalta:specialization>
+                                            <jobsinmalta:specialization id="852">Course coordinator</jobsinmalta:specialization>
+                                            <jobsinmalta:specialization id="853">Training &amp; Development</jobsinmalta:specialization>
+                                    </jobsinmalta:specializations>
+                <jobsinmalta:jobtype>Full Time</jobsinmalta:jobtype>
+                <jobsinmalta:joblevel>Experienced</jobsinmalta:joblevel>
+                                <jobsinmalta:companytype>Employer</jobsinmalta:companytype>
+                                                <jobsinmalta:closingdate>
+                    Wed, 23 Nov 2016 02:14:34 +0100                </jobsinmalta:closingdate>
+                            </item>
+                    <item>
+                <title>Chefs</title>
+                <link>http://jobsinmalta.com/chefs/job/8529/hospitality-leisure</link>
+                <guid>http://jobsinmalta.com/chefs/job/8529/hospitality-leisure</guid>
+                <category>Hospitality &amp; Leisure</category>
+                <description>We are currently seeking persons to fill the below vacancies in various outlets:Sous ChefsCommie ChefsChef de PartieThe following attributes and...</description>
+                <pubDate>Mon, 24 Oct 2016 02:04:14 +0200</pubDate>
+                                <enclosure length="54611" type="image/png" url="http://employers.jobsinmalta.com/img/uploads/clients/thumbnails/831.png"/>
+                                <jobsinmalta:specializations>
+                                            <jobsinmalta:specialization id="932">Food &amp; Beverage preparation</jobsinmalta:specialization>
+                                    </jobsinmalta:specializations>
+                <jobsinmalta:jobtype>Full Time</jobsinmalta:jobtype>
+                <jobsinmalta:joblevel>Experienced</jobsinmalta:joblevel>
+                                <jobsinmalta:companytype>Employer</jobsinmalta:companytype>
+                                                <jobsinmalta:closingdate>
+                    Wed, 23 Nov 2016 02:04:14 +0100                </jobsinmalta:closingdate>
+                            </item>
+            </channel>
+<nodes>5</nodes></root>
