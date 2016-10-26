@@ -10,6 +10,15 @@
             </head>
             <body>
                 <section>
+					<section>
+						<h1>Channel:  <xsl:apply-templates select="root/channel/title"/></h1>
+						<h5>Number of vacancies: <xsl:apply-templates select="root/nodes"/></h5>						
+							<a >
+							   <xsl:attribute name="href"><xsl:value-of select="root/channel/link"/></xsl:attribute>
+							   <xsl:value-of select="root/channel/link" />						   
+							</a>
+						<h5>Description: <xsl:apply-templates select="root/channel/description"/></h5>
+					</section>
                     <xsl:apply-templates select="root/channel/item"/>
                 </section>
             </body>
@@ -22,18 +31,18 @@
 
     <xsl:template match="item">
         <article>
-            <header>
-                <h2><xsl:value-of select="title"/></h2>
-                <h3><xsl:value-of select="category"/></h3>
-                <p>Published on <xsl:apply-templates select="pubDate"/></p>
+            <header>                
+				 <h2><xsl:value-of select="title"/></h2>
+				 <p>Published on <xsl:apply-templates select="pubDate"/></p>
+                <h3><xsl:value-of select="category"/></h3>               
             </header>
             <details><summary>Job Details</summary><xsl:value-of select="description"/></details>
-            <p><xsl:element name="a">
+            <button><xsl:element name="a">
                 <xsl:attribute name="href">
                     <xsl:value-of select="link"/>
                 </xsl:attribute>
-                Apply
-            </xsl:element></p>
+                apply
+            </xsl:element></button>
         </article>
     </xsl:template>
 </xsl:stylesheet>
